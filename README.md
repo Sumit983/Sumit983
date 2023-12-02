@@ -3,7 +3,7 @@
 <h1 align="center"> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 30px height='30px'>  I'm Sumit Prasad 👦</h1>
  
 
-<p>Student and learner interested in WEB 3.0
+<p>Student and learner interested in WEB 3.0 
 </p>
 <img align="right" alt="Coding" width="32%" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
